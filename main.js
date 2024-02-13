@@ -1,7 +1,8 @@
 let bot_token = 'Your bot token' 
 let bot_api = 'https://api.telegram.org/bot' + bot_token + '/sendMessage' 
 let chat_id = 'your chat id ' 
- 
+
+
 let inputs = document.querySelectorAll('input') 
 let button = document.querySelector('button') 
  
